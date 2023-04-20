@@ -8,6 +8,7 @@ pygmentsUseClasses = false
 paginate = 9999
 minify = true
 disableHugoGeneratorInject = true
+enableEmoji = true
 
 
 [taxonomies]
